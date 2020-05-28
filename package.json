@@ -1,0 +1,22 @@
+{
+  "name": "t-backend",
+  "version": "1.0.0",
+  "description": "Buyer and Seller backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Open-Project-Contribution/T-Backend.git"
+  },
+  "author": "sensrdt && kbosedbl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Open-Project-Contribution/T-Backend/issues"
+  },
+  "homepage": "https://github.com/Open-Project-Contribution/T-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
